@@ -1,0 +1,21 @@
+﻿  Main.cpp
+c:\users\max\source\repos\particlesystem\main.cpp(72): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\max\source\repos\particlesystem\main.cpp(76): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\max\source\repos\particlesystem\main.cpp(80): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\max\source\repos\particlesystem\main.cpp(84): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\max\source\repos\particlesystem\main.cpp(96): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\max\source\repos\particlesystem\main.cpp(227): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\max\source\repos\particlesystem\main.cpp(233): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\max\source\repos\particlesystem\main.cpp(326): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\max\source\repos\particlesystem\main.cpp(326): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\max\source\repos\particlesystem\main.cpp(331): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\max\source\repos\particlesystem\main.cpp(331): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\max\source\repos\particlesystem\main.cpp(336): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\max\source\repos\particlesystem\main.cpp(336): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\max\source\repos\particlesystem\main.cpp(336): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\max\source\repos\particlesystem\main.cpp(342): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\max\source\repos\particlesystem\main.cpp(342): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\max\source\repos\particlesystem\main.cpp(348): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\max\source\repos\particlesystem\main.cpp(348): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\max\source\repos\particlesystem\main.cpp(181): warning C4715: 'ParticleSystem::setTexture': not all control paths return a value
+  ParticleSystem.vcxproj -> C:\Users\Max\source\repos\ParticleSystem\Debug\ParticleSystem.exe
